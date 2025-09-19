@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZjhhZ2hnMmh1cHgwajR5OTFxbjBicHllamFmMXZ4eXZ4bnRwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE4a29jNDNsYWF1Y2JzeHgyZzVkZjE2eXg1d3Vna2k5bG9qd3plcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Hi — I’m Ashraful Islam Opu, a final-year student and Software QA Engineer. I’m ISTQB®-certified and have experience in both manual and automated testing, including test case design, execution, and bug reporting.
@@ -36,5 +36,5 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/ashrafulislam0010" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ashraful Islam Opu's LinkedIn"/></a> <a href="mailto:ashrafulislamopu0010@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ashraful Islam Opu's Email"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ashrafulislam0010" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ashraful Islam Opu's LinkedIn"/></a></p>
 
