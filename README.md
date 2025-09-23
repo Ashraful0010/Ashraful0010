@@ -17,9 +17,9 @@
 ## 🧠 My Focus Areas
 - Test Automation
 - Manual Testing
+- Test Case Design
 - Bug Reporting
 - Bug Tracking
-- Performance Testing
 
 
 ## 📊 GitHub Stats & Trophies
