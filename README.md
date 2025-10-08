@@ -11,8 +11,8 @@
 - Test Automation
 - Manual Testing
 - Test Case Design
-- Bug Reporting
-- Bug Tracking
+- Test Execution
+- Defect Reporting
 
 
 ## 📊 GitHub Stats & Trophies
