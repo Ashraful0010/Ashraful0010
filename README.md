@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtc292dnpnbnBmN29ianFoMGt6ZDJrbDZqYTV1a2RjbTJrZ3kweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IP74eYbScLhCi2uoW/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtc292dnpnbnBmN29ianFoMGt6ZDJrbDZqYTV1a2RjbTJrZ3kweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IP74eYbScLhCi2uoW/giphy.gif" alt="Banner" width="600" />
 
 ## 📌 About Me
 - Hi — I’m Ashraful Islam Opu, a final-year student and Software QA Engineer. I’m ISTQB®-certified and have experience in both manual and automated testing, including test case design, execution, and bug reporting.
