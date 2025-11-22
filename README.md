@@ -10,6 +10,7 @@
 ## 🧠 My Focus Areas
 - Test Automation
 - Manual Testing
+- API Testing
 - Test Case Design
 - Test Execution
 - Defect Reporting
