@@ -3,7 +3,7 @@
 
 
 ## 📌 About Me
-- Hi — I’m Ashraful Islam Opu, a SQA Intern at IMPIT Limited. I’m ISTQB®-certified and have experience in both manual and automated testing, including test case design, execution, and bug reporting.
+- Hi — I’m Ashraful Islam Opu. Currently I am working at Tekarsh Bangladesh Limited as Jr. Software QA Engineer. I’m ISTQB®-certified and have experience in both manual and automated testing, including test case design, execution, bug reporting and requirement analysis.
 - I’m passionate about ensuring software quality, improving user experience, and collaborating closely with development teams. With a strong interest in learning new tools and technologies, I strive to grow as a QA professional while contributing to building reliable and high-quality software.
 
 
